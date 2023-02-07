@@ -7,7 +7,7 @@
 If you use the AWS Console link, the account alias is pre-filled. For IAM user name, provide your
 Philips email address.
 
-![](./images/0_sign_in)
+![0-sign-in](./images/0-sign-in)
 
 Note: The AWS access key and password are for programmatic access, so you do not need them
 here.
