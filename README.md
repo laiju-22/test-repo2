@@ -20,7 +20,7 @@ Directly log on HSDP Development account and initiate the Sagemaker Cloudformati
 
 ### 2.1 Start AWS console and select Cloudformation service
 
-- ![1-aws-console-home](./images/1 aws console home.png)
+- ![1-aws-console-home](./images/1-aws-console-home.png)
 
 ### 2.2 Start to create Cloudformation
 
