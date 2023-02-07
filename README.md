@@ -7,7 +7,7 @@
 If you use the AWS Console link, the account alias is pre-filled. For IAM user name, provide your
 Philips email address.
 
-![0-sign-in](./images/0-sign-in.png)
+![0-signin](./images/0-signin.png)
 
 Note: The AWS access key and password are for programmatic access, so you do not need them
 here.
@@ -16,7 +16,7 @@ here.
 
 Directly log on HSDP Development account, not switch to a different role.
 
-![aws-logged](./images/aws-logged)
+![aws-logged](./images/aws-logged.png)
 
 ## 2 Workflow for Sagemaker Cloudformation Stack Deployment Pipeline
 
